@@ -4,7 +4,7 @@
 ## 🚀 Live Dashboard
 
 **Access the deployed dashboard here:**  
-👉 **[https://climate-challenge-week0.streamlit.app](https://climate-challenge-week0.streamlit.app)** 👈
+👉 **[https://african-climate-challenge-week0.streamlit.app](https://african-climate-challenge-week0.streamlit.app)** 👈
 
 ---
 
